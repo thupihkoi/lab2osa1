@@ -1,7 +1,10 @@
 public class Moottori.java implements Runnable{
+  private boolean jatka=true;
   //some code
   public void run(){
     //Nyt toimii
-    Thread.sleep(1);
+    while (jatka{
+      Thread.sleep(1);
+    }
   }
 }
