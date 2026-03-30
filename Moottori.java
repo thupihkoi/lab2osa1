@@ -1,9 +1,9 @@
 public class Moottori.java implements Runnable{
-  private in ok=1;
+  private boolean jatka=true;
   //some code
   public void run(){
     //Nyt toimii
-    while (ok==1){
+    while (jatka{
       Thread.sleep(1);
     }
   }
