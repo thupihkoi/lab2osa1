@@ -1,7 +1,8 @@
 public class Valopaa implements Runnable{
+  private boolean jatka;
   public void run(){
-    while (true){
-    Thread.sleep(100);
+    while (jatka){
+      Thread.sleep(100);
     }
   }
 }
