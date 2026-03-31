@@ -5,6 +5,7 @@ public class Moottori.java implements Runnable{
     //Nyt toimii
     while (jatka){
       Thread.sleep(1);
+      Tee jotain
     }
   }
 }
