@@ -3,7 +3,7 @@ public class Moottori.java implements Runnable{
   public void run(){
     //Nyt toimii
     while (true){
-      Thread.sleep(1);
+      Thread.sleep(1000);
       Tee jotain
       muutakin
         muutakinkin....
