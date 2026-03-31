@@ -7,6 +7,7 @@ public class Moottori.java implements Runnable{
       Thread.sleep(1);
       Tee jotain
       muutakin
+        muutakinkin....
     }
   }
 }
