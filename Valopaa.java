@@ -1,3 +1,5 @@
 public class Valopaa implements Runnable{
-  //Koodia
+  public void run(){
+    Thread.sleep(100);
+  }
 }
