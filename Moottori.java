@@ -3,7 +3,7 @@ public class Moottori.java implements Runnable{
   //some code
   public void run(){
     //Nyt toimii
-    while (jatka{
+    while (jatka){
       Thread.sleep(1);
     }
   }
